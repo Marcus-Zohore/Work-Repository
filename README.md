@@ -29,7 +29,8 @@ I min fritid spiller jeg fodbold på relativt højt niveau. Jeg træner fire gan
 Jeg fester ikke særlig meget, fordi jeg hellere vil bruge min fritid på fodbold, familie og andre ting, jeg interesserer mig for. Jeg kan også godt lide at spille computerspil og bruge tid på computere og IT.
 
 # Opgaver/ Links 
-- [x] Fremlæggelse om gf2 [PowerPoint](https://teccph-my.sharepoint.com/:p:/r/personal/mama84_elev_tec_dk/Documents/GF2_Evaluering.pptx?d=w98a385b878ba4572a93c206d621bec94&csf=1&web=1&e=lrgA1g)
+- [x] Fremlæggelse om gf2 [PowerPoint](https://github.com/user-attachments/files/31905496/GF2_Evaluering.pptx)
+
 - [x] Github account 
 - [x] lærepladssøgning
 - [x] lærepladsopgave 
