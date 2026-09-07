@@ -1,6 +1,8 @@
-# Marcus Zohore 
 # Marcus-Zohore Portfolio 
 ###### 02/12/2008
+
+<img width="180" height="270" alt="Resized_IMG_91032 mit pfp" src="https://github.com/user-attachments/assets/4500d3c2-7cce-4a31-96f7-1dfa55a25b88" />
+
 
 Jeg går på HF1 og går lige nu på Skoleoplæringscenteret i Hvidovre. _*Jeg vil gerne uddanne mig til IT-supporter og arbejde i en virksomhed, hvor jeg kan hjælpe andre med IT og løse tekniske problemer.*_
 Jeg interesserer mig meget for **IT-support, netværk, computere, hardware og operativsystemer**.
