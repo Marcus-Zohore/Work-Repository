@@ -33,3 +33,4 @@ Jeg fester ikke særlig meget, fordi jeg hellere vil bruge min fritid på fodbol
 - [x] Github account 
 - [x] lærepladssøgning
 - [x] lærepladsopgave 
+- [ ] Networking Basics
